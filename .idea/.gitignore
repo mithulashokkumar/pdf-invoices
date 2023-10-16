@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+venv
+misc.xml
+modules.xml
+PDF Invoices.iml
+profiles_settings.xml
+Project_Default.xml
+vcs.xml
